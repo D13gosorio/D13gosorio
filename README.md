@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/D13gosorio/D13gosorio/main/assets/banner.jpg" alt="Diego Osorio — Software Engineering Student" width="100%">
 
-## 👋 ¡Hola!
+## ¡Hola!
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-9B2426?style=flat&logo=vercel&logoColor=white)](https://diego-osorio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/diego-osorio-carvajal)
@@ -8,9 +8,12 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá, apasionado por la tecnología.
+Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá, con gran interés por el desarrollo de software y la tecnología.
 
-Interesado en incorporarme a un equipo de desarrollo donde pueda aportar y consolidar experiencia profesional. Dominio del inglés a nivel avanzado, tanto técnico como conversacional.
+Me interesa participar en proyectos y equipos de desarrollo donde pueda aplicar mis conocimientos, aprender de nuevas tecnologías y adquirir 
+experiencia profesional, aportando una actitud proactiva y orientada a la resolución de problemas.
+
+Dominio del inglés a nivel avanzado, tanto técnico como conversacional.
 
 ## 🛠️ Tech Stack
 
